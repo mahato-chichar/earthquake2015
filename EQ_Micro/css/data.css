@@ -1,0 +1,18 @@
+#table {
+	padding: 2px;
+	border-bottom: 4px solid #090791;
+}
+
+#table>table td {
+	border: none;
+}
+
+#table>table th {
+	border: none;
+}
+
+#table tr:hover {
+        background-color: #fff;
+        color: #000;
+}
+
