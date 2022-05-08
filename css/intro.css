@@ -1,0 +1,23 @@
+h3 {
+    padding: 4px;
+}
+
+p {
+     font-size: 20px;
+     padding: 10px;
+}
+
+#container2 {
+     float: left;
+}
+
+#sidebar {
+     width: 25%;
+}
+
+#aside {
+     padding-top: 90px;
+     width: 70%;
+     float: right;
+}
+

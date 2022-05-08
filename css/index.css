@@ -1,0 +1,15 @@
+
+#container2 {
+     float: left;
+}
+
+#sidebar {
+     width: 25%;
+}
+
+#aside {
+     padding-top: 90px;
+     width: 70%;
+     float: right;
+}
+
